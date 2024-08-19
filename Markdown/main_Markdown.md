@@ -25,6 +25,7 @@
       - [GitHub Repository 的维护](#github-repository-的维护)
         - [如果您从未了解过如何使用Git](#如果您从未了解过如何使用git)
         - [如果您对GitHub有所了解，并有兴趣进一步学习更一般的使用方法](#如果您对github有所了解并有兴趣进一步学习更一般的使用方法)
+        - [有关Markdown笔记](#有关markdown笔记)
       - [附件范例](#附件范例)
 
 ## 简介
@@ -90,9 +91,9 @@
 
 ##### 如果您从未了解过如何使用Git
 
-首先，如果您从未接触过Git，对于GitHub的了解也至多限于听说过的程度，那么，参与本手册的撰写很有可能是您首次接触除了CSDN等中国大陆开发者社区之外的、具有更高互动性的开发者社区。在此**强烈建议**您阅读一下这篇面对开发者社群们[**提问的智慧**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)，这应该会让您更愉快地与开发者社区互动并融入其中。
+不必担心，直接通过GitHub网站对文件作出修改也是很容易的，我们接下来就会以本手册为例子来看看如何修改您正在看的这个Markdown笔记文件（[SMS-CSU-Undergraduate-Handbook/blob/main/Markdown/main_Markdown.md](https://github.com/Shen-Cao/SMS-CSU-Undergraduate-Handbook/blob/main/Markdown/main_Markdown.md)）。
 
-我们直接以本手册为例子来看看如何修改您正在看的这个Markdown笔记文件（[SMS-CSU-Undergraduate-Handbook/blob/main/Markdown/main_Markdown.md](https://github.com/Shen-Cao/SMS-CSU-Undergraduate-Handbook/blob/main/Markdown/main_Markdown.md)），在此我们介绍最简单的办法。
+>不过如果您从未接触过Git，对于GitHub的了解也至多限于听说过的程度，那么，参与本手册的撰写很有可能是您首次接触除了CSDN等中国大陆开发者社区之外的、具有更高互动性的开发者社区。在此**强烈建议**您阅读一下这篇面对开发者社群们[**提问的智慧**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)，这应该会让您更愉快地与开发者社区互动并融入其中。
 
 首先，在查看本文档的界面通过右上角的编辑按键进入编辑界面
 
@@ -113,5 +114,9 @@
 既然如此，我们不妨假设您面对新的工具已经有一定查阅相关使用说明和手册的能力。那么，对于GitHub的操作方法您可以参考[GitHub官方的手册](https://docs.github.com/zh)。在简单查看了[入门教程](https://docs.github.com/zh/get-started)、[存储库](https://docs.github.com/zh/repositories)相关信息以及[拉取请求](https://docs.github.com/zh/pull-requests)操作后，您应该就可以直接上手对自己做出的变动拉取请求。
 
 如果您想再进一步，那么可以[配置您本地开发的Git环境](https://docs.github.com/zh/get-started/getting-started-with-git/set-up-git)。更多有关本地存储库、提交、上传和合并更改等分支管理操作可以参考[这个教程](https://www.runoob.com/git/git-tutorial.html)。
+
+##### 有关Markdown笔记
+
+本手册采用LaTeX和Markdown两种语言来编写。Markdown是一种非常方便的笔记语言，网络上也有大量相关教程，比如[官方教程](https://markdown.com.cn/)、[这个网站](https://www.runoob.com/markdown/md-tutorial.html)还有[这个快速入门指南](https://markdown101.github.io/getting-started/)等，在此仅列出几项供参考。
 
 #### 附件范例
